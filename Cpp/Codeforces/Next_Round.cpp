@@ -4,23 +4,21 @@
 using namespace std;
 
 int main(){
-    int n, k, s;
+    int n, k, s, place;
     vector<int> score;
     cin >> n >> k;
-    while(n--){
+    for(int i=0; i<n; i++){
         cin >> s;
         score.push_back(s);
     }
-    sort(score.begin(), score.end());
-
+    place = score[k-1];
     s = 0;
-    for(int i=0; !score.empty(); i++){
-        if(score[i] > k){
+    for(int i=0; i<n; i++){
+        if(score[i] >= place && score[i]>0){
             s++;
         }
-
-        score.pop_back();
-    } cout << s << endl << endl;
+    }
+    cout << s << endl;
 
     return 0;
 }
