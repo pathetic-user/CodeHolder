@@ -1,0 +1,5 @@
+data <- c(1, 2, 3, 4, 5, 6, 7, 8, 9, 0)
+data_mean <- mean(data)
+print(paste("Mean: ", data_mean))
+std_dev <- sd(data)
+print(paste("Standard Deviation: ", std_dev))
