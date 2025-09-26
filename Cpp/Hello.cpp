@@ -1,9 +1,7 @@
 #include <iostream>
-
+using namespace std;
 int main(){
-    std::cout << "Print: ?" << std::endl;
-    std::string str;
-    std::getline(std::cin, str);
-    std::cout << str << std::endl;
+    cout << 125/100;
+    cout << 125-(1*100);
     return 0;
 }
