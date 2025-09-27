@@ -89,3 +89,12 @@ mat <- matrix(c(1, 2, 3, 4, 5, 6, 7, 8, 9), nrow = 3, ncol = 3, byrow = TRUE)
 print(mat)
 # help(reserved)
 # Launches help but doesn't work in vscode...use terminal or Rstudio
+a <- 10
+print("Enter")
+if (a > 0) {
+  print("Positive Number.")
+} else if (a == 0) {
+  print("It's Zero!")
+} else {
+  print("Negative Number")
+}
