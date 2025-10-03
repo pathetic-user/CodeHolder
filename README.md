@@ -9,7 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgur.com/7k3zjY2.gif" alt="Coding gif" />
+<img align="right" height="150" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding gif" />
+
 
 ###
 
