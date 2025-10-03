@@ -37,17 +37,17 @@
 
 # 2.2 Accessing
 # 1.
- empId = c(1, 2, 3, 4)
- empName = c("Raju", "Sandeep", "karim", "Rajjak")
- numberOfEmp = 4
- empList = list(
-   "ID" = empId,
-   "Names" = empName,
-   "Total Staff" = numberOfEmp
-   )
- print(empList)
- cat("Accessing name components using $ command\n")
- print(empList$Names)
+#  empId = c(1, 2, 3, 4)
+#  empName = c("Raju", "Sandeep", "karim", "Rajjak")
+#  numberOfEmp = 4
+#  empList = list(
+#    "ID" = empId,
+#    "Names" = empName,
+#    "Total Staff" = numberOfEmp
+#    )
+#  print(empList)
+#  cat("Accessing name components using $ command\n")
+#  print(empList$Names)
 
 # 2.
 # print(empList[[2]])
@@ -102,9 +102,9 @@
 # 3.2  Printing Structure of the R Data Frame
 # Get the data types of the data
 # friend.data <- data.frame(
-#     friend_id = c(1:5), 
-#     friend_name = c("Sachin", "Sourav", 
-#                     "Dravid", "Sehwag", 
+#     friend_id = c(1:5),
+#     friend_name = c("Sachin", "Sourav",
+#                     "Dravid", "Sehwag",
 #                     "Dhoni"),
 #     stringsAsFactors = FALSE
 # )
@@ -112,9 +112,9 @@
 
 # 3.3 Summary of Data
 # friend.data <- data.frame(
-#     friend_id = c(1:5), 
-#     friend_name = c("Sachin", "Sourav", 
-#                     "Dravid", "Sehwag", 
+#     friend_id = c(1:5),
+#     friend_name = c("Sachin", "Sourav",
+#                     "Dravid", "Sehwag",
 #                     "Dhoni"),
 #     stringsAsFactors = FALSE
 # )
@@ -125,7 +125,7 @@
 # print(result)
 
 # 3.5 Expand Data
-# friend.data$location <- c("Kolkata", "Delhi", 
+# friend.data$location <- c("Kolkata", "Delhi",
 #                           "Bangalore", "Hyderabad",
 #                           "Chennai")
 # resultant <- friend.data
@@ -148,7 +148,7 @@
 # Discount <- c(5, 10, 8)
 # Products <- cbind(Products, Discount)
 
-# 3.9 Remove Rows and Columns 
+# 3.9 Remove Rows and Columns
 # 1. Rows
 # data <- subset(data, friend_id != 3)
 
@@ -171,10 +171,10 @@
 
 # 4.1 Creating
 # A = matrix(
-#   c(1, 2, 3, 4, 5, 6, 7, 8, 9), 
-#   nrow = 3,   
-#   ncol = 3,         
-#   byrow = TRUE          
+#   c(1, 2, 3, 4, 5, 6, 7, 8, 9),
+#   nrow = 3,
+#   ncol = 3,
+#   byrow = TRUE
 # )
 # rownames(A) = c("a", "b", "c")
 # colnames(A) = c("c", "d", "e")
@@ -227,7 +227,7 @@
 # 1. Rows
 # A = A[-2, ]
 
-# 2. Columns 
+# 2. Columns
 # A = A[, -2]
 
 
@@ -239,26 +239,26 @@
 # Syntax: array(data, dim = (nrow, ncol, nmat), dimnames=names)
 
 # 1 Uni-Dimensional Array
-# vec1 <- c(1, 2, 3, 4, 5, 6, 7, 8, 9) 
-# print (vec1) 
+# vec1 <- c(1, 2, 3, 4, 5, 6, 7, 8, 9)
+# print (vec1)
 # cat ("Length of vector : ", length(vec1))
 
 # 2. Multi-Dimensional Array
-# arr = array(2:13, dim = c(2, 3, 2)) 
+# arr = array(2:13, dim = c(2, 3, 2))
 # print(arr)
 
 # 5.2  Dimension of the Array
-# arr = array(2:13, dim = c(2, 3, 2)) 
+# arr = array(2:13, dim = c(2, 3, 2))
 # dim(arr)
 
 # 5.3  Naming of Arrays
-# row_names <- c("row1", "row2") 
-# col_names <- c("col1", "col2", "col3") 
-# mat_names <- c("Arr1", "Arr2") 
+# row_names <- c("row1", "row2")
+# col_names <- c("col1", "col2", "col3")
+# mat_names <- c("Arr1", "Arr2")
 
-# arr = array(2:14, dim = c(2, 3, 2), 
-#             dimnames = list(row_names, 
-#                             col_names, mat_names)) 
+# arr = array(2:14, dim = c(2, 3, 2),
+#             dimnames = list(row_names,
+#                             col_names, mat_names))
 # print (arr)
 
 # 5.4 Accessing arrays
@@ -316,14 +316,14 @@
 # gender <- factor(c("female", "male", "male", "female"  ))
 # print(gender[-3])
 
-# 6.6 Factors in Data Frame 
-# age <- c(40, 49, 48, 40, 67, 52, 53)  
+# 6.6 Factors in Data Frame
+# age <- c(40, 49, 48, 40, 67, 52, 53)
 # salary <- c(103200, 106200, 150200,
 #             10606, 10390, 14070, 10220)
-# gender <- c("male", "male", "female", 
+# gender <- c("male", "male", "female",
 #             "female", "male", "female", "male")
-# employee <- data.frame(age, salary, gender = factor(gender))  
-# print(employee)  
+# employee <- data.frame(age, salary, gender = factor(gender))
+# print(employee)
 
 
 

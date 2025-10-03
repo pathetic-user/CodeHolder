@@ -1,36 +1,52 @@
-# CodeHolder
+<h2 align="left">Hi 👋! My name is Sheikh Tawsif Bin Aftab and I'm a CSE student from Bangladesh</h2>
 
-Welcome! This repository is a living record of my growth as a developer. It gathers the experiments, exercises, and projects that are helping me sharpen my craft.
+###
 
-## About Me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pathetic-user&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pathetic-user&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- **Curious problem solver** – I enjoy picking apart complex challenges and rebuilding them with clean, efficient solutions.
-- **Lifelong learner** – Each directory here marks another step in expanding my technical toolkit.
-- **Community-minded** – I believe sharing knowledge amplifies progress for everyone.
+###
 
-## Goals
+<img align="right" height="150" src="https://i.imgur.com/7k3zjY2.gif" alt="Coding gif" />
 
-1. **Strengthen algorithmic thinking** by regularly tackling competitive programming problems and revisiting my solutions to improve readability and performance.
-2. **Build real-world projects** that blend practicality with creativity, documenting each milestone to capture the lessons learned.
-3. **Collaborate and contribute** to open-source initiatives, turning personal insights into shared resources.
+###
 
-## Code Portfolio
+### 🔹 About Me
+- 🎓 I’m currently pursuing **Computer Science & Engineering**  
+- 💻 Interested in **systems programming, problem-solving, and research**  
+- 🌱 Currently learning **R** and **web basics (HTML, CSS)**  
+- 🎯 My next big goals: **Python & Java**  
+- 📂 Check out my repositories: [CodeHolder](https://github.com/pathetic-user/CodeHolder) | [About Me](https://github.com/pathetic-user/pathetic-user.github.io)
 
-- `Cpp/` – Home to my C++ explorations, from warm-up exercises like `Hello.cpp` to competitive programming practice in the `Codeforces/` folder.
-- `Java/` – A space for Java applications where I practice object-oriented design principles and tooling around the JVM ecosystem.
-- `R/` – Dedicated to data analysis and visualization experiments, bridging statistics with storytelling.
+###
 
-Each folder contains code snapshots that reflect what I am learning right now. As the repository grows, expect to see more structured projects, better documentation, and polished implementations.
+### 🛠️ Tech Stack
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+</div>
 
-## Learning Roadmap
+###
 
-- Continue deepening my mastery of C++ templates, STL best practices, and modern language features.
-- Design Java services that emphasize clean architecture and robust testing.
-- Explore R packages that enable reproducible research and insightful visualizations.
-- Document discoveries through READMEs, notebooks, or blog-style notes alongside the code.
+### 📫 Connect With Me
+<div align="left">
+  <a href="mailto:sheikhti1205@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" /></a>
+  <a href="https://discord.com/users/sheikhti_"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" /></a>
+  <a href="https://www.linkedin.com/in/sheikh-tawsif-bin-aftab-609248313/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" /></a>
+</div>
 
-## How to Engage
+###
 
-If you're interested in discussing ideas, offering feedback, or collaborating, feel free to open an issue or reach out. I'm always excited to connect with fellow builders.
+<br clear="both">
 
-Thanks for stopping by—let's keep learning and creating!
+<img src="https://raw.githubusercontent.com/pathetic-user/pathetic-user/output/snake.svg" alt="Snake animation" />
+
