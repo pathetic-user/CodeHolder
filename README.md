@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! 
-      I'm Sheikh Tawsif Bin Aftab and a CSE student from Bangladesh</h2>
+<h2 align="left">Hi 👋! <br>
+      <t>I'm Sheikh Tawsif Bin Aftab a CSE student from Bangladesh</h2>
 
 ###
 
